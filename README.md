@@ -1,1 +1,3 @@
 # MSc-Information-Studies-DS
+
+Jailbreaking large language models (LLMs) has been an ongoing battle since their emergence. To better understand how jailbreak strategies affect model performance, this study implemented two techniques: Pinyin transliteration and Low-Rank Adaptation (LoRA). Pinyin transliteration was introduced as a novel prompt manipulation method specifically designed for the Chinese-built LLM, DeepSeek. It was further applied to the relatively less explored model, TinyLlama, alongside LoRA modification. Both techniques demonstrated improvements in attack success rates (ASR) without undermining the overall quality of the model. The findings offer valuable insights for developing a more comprehensive strategy for larger-scale models in the future.
